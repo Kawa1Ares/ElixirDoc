@@ -1,0 +1,14 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:me.liuli.elixir.account/AlteningAccount.Companion///PointingToDeclaration/me/liuli/elixir/account/AlteningAccount.Companion.html
+$dokka.location:me.liuli.elixir.account/MicrosoftAccount.AuthMethod.Companion///PointingToDeclaration/me/liuli/elixir/account/MicrosoftAccount.AuthMethod.Companion.html
+$dokka.location:me.liuli.elixir.account/MicrosoftAccount.AuthMethod///PointingToDeclaration/me/liuli/elixir/account/MicrosoftAccount.AuthMethod.html
+$dokka.location:me.liuli.elixir.account/MicrosoftAccount.Companion///PointingToDeclaration/me/liuli/elixir/account/MicrosoftAccount.Companion.html
+$dokka.location:me.liuli.elixir.account/MicrosoftAccount.OAuthHandler///PointingToDeclaration/me/liuli/elixir/account/MicrosoftAccount.OAuthHandler.html
+$dokka.location:me.liuli.elixir.compat/OAuthServer.OAuthHttpHandler///PointingToDeclaration/me/liuli/elixir/compat/OAuthServer.OAuthHttpHandler.html
+me.liuli.elixir.account
+me.liuli.elixir.compat
+me.liuli.elixir.exception
+me.liuli.elixir.manage
+me.liuli.elixir.utils
+
